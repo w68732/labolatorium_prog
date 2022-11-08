@@ -1,5 +1,5 @@
-a=int(input("Proszę podać a "))
-b=int(input("Proszę podać b "))
+a = int(input("Proszę podać a "))
+b = int(input("Proszę podać b "))
 if(a>b):
     c=b
     d=a
